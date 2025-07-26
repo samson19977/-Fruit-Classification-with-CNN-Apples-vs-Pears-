@@ -27,11 +27,6 @@ PyTorch
 
 Matplotlib
 
-OS & Zipfile modules for local data management
-
- Run the Notebook
-Clone the repo or upload the notebook to a Colab environment.
-
 Ensure the image dataset is in place (or let the notebook extract it).
 
 Run all cells to train the model and view results.
